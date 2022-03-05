@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		068F87EB27CCD77A00FFBF98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F87EA27CCD77A00FFBF98 /* AppDelegate.swift */; };
-		068F87ED27CCD77A00FFBF98 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F87EC27CCD77A00FFBF98 /* SceneDelegate.swift */; };
-		068F87EF27CCD77A00FFBF98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F87EE27CCD77A00FFBF98 /* ViewController.swift */; };
-		068F87F227CCD77A00FFBF98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 068F87F027CCD77A00FFBF98 /* Main.storyboard */; };
-		068F87F427CCD77C00FFBF98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 068F87F327CCD77C00FFBF98 /* Assets.xcassets */; };
-		068F87F727CCD77C00FFBF98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 068F87F527CCD77C00FFBF98 /* LaunchScreen.storyboard */; };
+		068F880B27CCD82B00FFBF98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F880A27CCD82B00FFBF98 /* AppDelegate.swift */; };
+		068F880D27CCD82B00FFBF98 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F880C27CCD82B00FFBF98 /* SceneDelegate.swift */; };
+		068F880F27CCD82B00FFBF98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068F880E27CCD82B00FFBF98 /* ViewController.swift */; };
+		068F881227CCD82B00FFBF98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 068F881027CCD82B00FFBF98 /* Main.storyboard */; };
+		068F881427CCD82D00FFBF98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 068F881327CCD82D00FFBF98 /* Assets.xcassets */; };
+		068F881727CCD82D00FFBF98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 068F881527CCD82D00FFBF98 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		068F87E727CCD77A00FFBF98 /* Udacity UIKit Fundamentals.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Udacity UIKit Fundamentals.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		068F87EA27CCD77A00FFBF98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		068F87EC27CCD77A00FFBF98 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		068F87EE27CCD77A00FFBF98 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		068F87F127CCD77A00FFBF98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		068F87F327CCD77C00FFBF98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		068F87F627CCD77C00FFBF98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		068F87F827CCD77C00FFBF98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		068F880727CCD82B00FFBF98 /* Click Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Click Counter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		068F880A27CCD82B00FFBF98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		068F880C27CCD82B00FFBF98 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		068F880E27CCD82B00FFBF98 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		068F881127CCD82B00FFBF98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		068F881327CCD82D00FFBF98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		068F881627CCD82D00FFBF98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		068F881827CCD82D00FFBF98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		068F87E427CCD77A00FFBF98 /* Frameworks */ = {
+		068F880427CCD82B00FFBF98 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		068F87DE27CCD77A00FFBF98 = {
+		068F87FE27CCD82B00FFBF98 = {
 			isa = PBXGroup;
 			children = (
-				068F87E927CCD77A00FFBF98 /* Udacity UIKit Fundamentals */,
-				068F87E827CCD77A00FFBF98 /* Products */,
+				068F880927CCD82B00FFBF98 /* Click Counter */,
+				068F880827CCD82B00FFBF98 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		068F87E827CCD77A00FFBF98 /* Products */ = {
+		068F880827CCD82B00FFBF98 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				068F87E727CCD77A00FFBF98 /* Udacity UIKit Fundamentals.app */,
+				068F880727CCD82B00FFBF98 /* Click Counter.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		068F87E927CCD77A00FFBF98 /* Udacity UIKit Fundamentals */ = {
+		068F880927CCD82B00FFBF98 /* Click Counter */ = {
 			isa = PBXGroup;
 			children = (
-				068F87EA27CCD77A00FFBF98 /* AppDelegate.swift */,
-				068F87EC27CCD77A00FFBF98 /* SceneDelegate.swift */,
-				068F87EE27CCD77A00FFBF98 /* ViewController.swift */,
-				068F87F027CCD77A00FFBF98 /* Main.storyboard */,
-				068F87F327CCD77C00FFBF98 /* Assets.xcassets */,
-				068F87F527CCD77C00FFBF98 /* LaunchScreen.storyboard */,
-				068F87F827CCD77C00FFBF98 /* Info.plist */,
+				068F880A27CCD82B00FFBF98 /* AppDelegate.swift */,
+				068F880C27CCD82B00FFBF98 /* SceneDelegate.swift */,
+				068F880E27CCD82B00FFBF98 /* ViewController.swift */,
+				068F881027CCD82B00FFBF98 /* Main.storyboard */,
+				068F881327CCD82D00FFBF98 /* Assets.xcassets */,
+				068F881527CCD82D00FFBF98 /* LaunchScreen.storyboard */,
+				068F881827CCD82D00FFBF98 /* Info.plist */,
 			);
-			path = "Udacity UIKit Fundamentals";
+			path = "Click Counter";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		068F87E627CCD77A00FFBF98 /* Udacity UIKit Fundamentals */ = {
+		068F880627CCD82B00FFBF98 /* Click Counter */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 068F87FB27CCD77C00FFBF98 /* Build configuration list for PBXNativeTarget "Udacity UIKit Fundamentals" */;
+			buildConfigurationList = 068F881B27CCD82D00FFBF98 /* Build configuration list for PBXNativeTarget "Click Counter" */;
 			buildPhases = (
-				068F87E327CCD77A00FFBF98 /* Sources */,
-				068F87E427CCD77A00FFBF98 /* Frameworks */,
-				068F87E527CCD77A00FFBF98 /* Resources */,
+				068F880327CCD82B00FFBF98 /* Sources */,
+				068F880427CCD82B00FFBF98 /* Frameworks */,
+				068F880527CCD82B00FFBF98 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Udacity UIKit Fundamentals";
-			productName = "Udacity UIKit Fundamentals";
-			productReference = 068F87E727CCD77A00FFBF98 /* Udacity UIKit Fundamentals.app */;
+			name = "Click Counter";
+			productName = "Click Counter";
+			productReference = 068F880727CCD82B00FFBF98 /* Click Counter.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		068F87DF27CCD77A00FFBF98 /* Project object */ = {
+		068F87FF27CCD82B00FFBF98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					068F87E627CCD77A00FFBF98 = {
+					068F880627CCD82B00FFBF98 = {
 						CreatedOnToolsVersion = 13.2;
 					};
 				};
 			};
-			buildConfigurationList = 068F87E227CCD77A00FFBF98 /* Build configuration list for PBXProject "Udacity UIKit Fundamentals" */;
+			buildConfigurationList = 068F880227CCD82B00FFBF98 /* Build configuration list for PBXProject "Click Counter" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 068F87DE27CCD77A00FFBF98;
-			productRefGroup = 068F87E827CCD77A00FFBF98 /* Products */;
+			mainGroup = 068F87FE27CCD82B00FFBF98;
+			productRefGroup = 068F880827CCD82B00FFBF98 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				068F87E627CCD77A00FFBF98 /* Udacity UIKit Fundamentals */,
+				068F880627CCD82B00FFBF98 /* Click Counter */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		068F87E527CCD77A00FFBF98 /* Resources */ = {
+		068F880527CCD82B00FFBF98 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				068F87F727CCD77C00FFBF98 /* LaunchScreen.storyboard in Resources */,
-				068F87F427CCD77C00FFBF98 /* Assets.xcassets in Resources */,
-				068F87F227CCD77A00FFBF98 /* Main.storyboard in Resources */,
+				068F881727CCD82D00FFBF98 /* LaunchScreen.storyboard in Resources */,
+				068F881427CCD82D00FFBF98 /* Assets.xcassets in Resources */,
+				068F881227CCD82B00FFBF98 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		068F87E327CCD77A00FFBF98 /* Sources */ = {
+		068F880327CCD82B00FFBF98 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				068F87EF27CCD77A00FFBF98 /* ViewController.swift in Sources */,
-				068F87EB27CCD77A00FFBF98 /* AppDelegate.swift in Sources */,
-				068F87ED27CCD77A00FFBF98 /* SceneDelegate.swift in Sources */,
+				068F880F27CCD82B00FFBF98 /* ViewController.swift in Sources */,
+				068F880B27CCD82B00FFBF98 /* AppDelegate.swift in Sources */,
+				068F880D27CCD82B00FFBF98 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		068F87F027CCD77A00FFBF98 /* Main.storyboard */ = {
+		068F881027CCD82B00FFBF98 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				068F87F127CCD77A00FFBF98 /* Base */,
+				068F881127CCD82B00FFBF98 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		068F87F527CCD77C00FFBF98 /* LaunchScreen.storyboard */ = {
+		068F881527CCD82D00FFBF98 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				068F87F627CCD77C00FFBF98 /* Base */,
+				068F881627CCD82D00FFBF98 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		068F87F927CCD77C00FFBF98 /* Debug */ = {
+		068F881927CCD82D00FFBF98 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		068F87FA27CCD77C00FFBF98 /* Release */ = {
+		068F881A27CCD82D00FFBF98 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,7 +282,7 @@
 			};
 			name = Release;
 		};
-		068F87FC27CCD77C00FFBF98 /* Debug */ = {
+		068F881C27CCD82D00FFBF98 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Udacity UIKit Fundamentals/Info.plist";
+				INFOPLIST_FILE = "Click Counter/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -301,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mubozk.Udacity-UIKit-Fundamentals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mubozk.Click-Counter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -309,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		068F87FD27CCD77C00FFBF98 /* Release */ = {
+		068F881D27CCD82D00FFBF98 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -317,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Udacity UIKit Fundamentals/Info.plist";
+				INFOPLIST_FILE = "Click Counter/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.mubozk.Udacity-UIKit-Fundamentals";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mubozk.Click-Counter";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		068F87E227CCD77A00FFBF98 /* Build configuration list for PBXProject "Udacity UIKit Fundamentals" */ = {
+		068F880227CCD82B00FFBF98 /* Build configuration list for PBXProject "Click Counter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				068F87F927CCD77C00FFBF98 /* Debug */,
-				068F87FA27CCD77C00FFBF98 /* Release */,
+				068F881927CCD82D00FFBF98 /* Debug */,
+				068F881A27CCD82D00FFBF98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		068F87FB27CCD77C00FFBF98 /* Build configuration list for PBXNativeTarget "Udacity UIKit Fundamentals" */ = {
+		068F881B27CCD82D00FFBF98 /* Build configuration list for PBXNativeTarget "Click Counter" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				068F87FC27CCD77C00FFBF98 /* Debug */,
-				068F87FD27CCD77C00FFBF98 /* Release */,
+				068F881C27CCD82D00FFBF98 /* Debug */,
+				068F881D27CCD82D00FFBF98 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 068F87DF27CCD77A00FFBF98 /* Project object */;
+	rootObject = 068F87FF27CCD82B00FFBF98 /* Project object */;
 }

@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Udacity UIKit Fundamentals
+//  Click Counter
 //
 //  Created by Muhammet BOZKURT on 28.02.2022.
 //
